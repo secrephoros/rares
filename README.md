@@ -1,1 +1,1 @@
-# rares
+# Rares. Iykyk.
