@@ -1,0 +1,12 @@
+{
+    "success":true,
+    "asset":"FAKEACCESS",
+    "asset_issuer_address":"1PLy9txuuFQcf7kvEasmwCs74r4p7e84tW",
+    "asset_owner_address":"1PLy9txuuFQcf7kvEasmwCs74r4p7e84tW",
+    "asset_supply":"FAKEACCESS",
+    "asset_divisible":false,
+    "asset_locked":true,
+    "image":"http://yourlink.decentrafile.com/ipfs/QmX1NzMbePXQ9PhVGC5cxYpdUZFQ98NxAxWJpaAAUhGUgD",
+    "image_large":"http://yourlink.decentrafile.com/ipfs/QmNqxBujnxpNsqqamhpTbwcdVB2bvVVaA8uQnhpoM54FHM",
+    "image_title":"FAKEACCESS"
+}
