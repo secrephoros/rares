@@ -1,0 +1,12 @@
+{
+    "success":true,
+    "asset":"PEPCUBE",
+    "asset_issuer_address":"1PLy9txuuFQcf7kvEasmwCs74r4p7e84tW",
+    "asset_owner_address":"1PLy9txuuFQcf7kvEasmwCs74r4p7e84tW",
+    "asset_supply":"80",
+    "asset_divisible":false,
+    "asset_locked":true,
+    "image":"https://ipfs.io/ipfs/QmURTWG5q3b7ZvjwE4sh2bZ64px41v6uJyNrr2a2zryDBc?filename=PEPCUBE_SMALL-01.png",
+    "image_large":"https://ipfs.io/ipfs/QmRFBf56VXazKre94VZCXShCNXtSnNg4MJpNZPeywroxST?filename=PEPECUBE_4-01.png",
+    "image_title":"PEPCUBE"
+}
