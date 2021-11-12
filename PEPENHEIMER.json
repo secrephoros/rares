@@ -1,12 +1,12 @@
 {
-  "success":true,
-  "asset":"PEPENHEIMER",
-  "asset_issuer_address":"1PLy9txuuFQcf7kvEasmwCs74r4p7e84tW",
-  "asset_owner_address":"1PLy9txuuFQcf7kvEasmwCs74r4p7e84tW",
-  "asset_supply":"21",
-  "asset_divisible":false,
-  "asset_locked":true,
-  "image":"https://3qttaxm3lp3anqqm56uwan6fxh55v3mselm7lmabxis2xa5qanjq.arweave.net/3CcwXZtb9gbCDO-pYDfFufva7ZIi2fWwAbolq4OwA1M",
-  "image_large":"https://7j5iznmcktvkhe7bwxv5omfm527kk4cwlxi4bgqenijjbr6gglga.arweave.net/-nqMtYJU6qOT4bXr1zCs7r6lcFZd0cCaBGoSkMfGMsw",
-  "video":"https://n7ntyjb3dh3x46rxkn27iw2twayuksy53oyz72jwogoa2re6zgwa.arweave.net/b9s8JDsZ9356N1N19FtTsDFFSx3bsZ_pNnGcDUSeyaw"
-  }
+    "success":true,
+    "asset":"PEPENHEIMER",
+    "asset_issuer_address":"1PLy9txuuFQcf7kvEasmwCs74r4p7e84tW",
+    "asset_owner_address":"1PLy9txuuFQcf7kvEasmwCs74r4p7e84tW",
+    "asset_supply":"21",
+    "asset_divisible":false,
+    "asset_locked":true,
+    "image":"https://3qttaxm3lp3anqqm56uwan6fxh55v3mselm7lmabxis2xa5qanjq.arweave.net/3CcwXZtb9gbCDO-pYDfFufva7ZIi2fWwAbolq4OwA1M",
+    "image_large":"https://7j5iznmcktvkhe7bwxv5omfm527kk4cwlxi4bgqenijjbr6gglga.arweave.net/-nqMtYJU6qOT4bXr1zCs7r6lcFZd0cCaBGoSkMfGMsw",
+    "image_title":"PEPENHEIMER"
+}
